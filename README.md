@@ -26,6 +26,6 @@ Below are the instructions for this assignment. Your repository should automatic
 
 * **Your partner's name and PID:** Matthew Topping, mctopping
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:**  Solution was technically correct, quick to analyze problem and chosen solution, quick to implement solution.  Minor confusion regarding logic.
